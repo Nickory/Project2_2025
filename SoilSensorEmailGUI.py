@@ -35,7 +35,7 @@ except (ImportError, RuntimeError):
 SMTP_SERVER = 'smtp.qq.com'
 SMTP_PORT = 465
 SENDER_EMAIL = "3119349688@qq.com" # Replace with your QQ email
-SENDER_PASSWORD = "okhhgidjogtndfid" # Replace with your QQ email authorization code
+SENDER_PASSWORD = "xxxxxxxx" # Replace with your QQ email authorization code
 RECIPIENT_EMAIL = "2563373919@qq.com" # Replace with recipient email
 
 # Default Notification Schedule (24-hour format "HH:MM")
