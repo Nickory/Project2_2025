@@ -16,7 +16,7 @@ The `SoilSensorEmail` system is a Raspberry Pi-based project designed to monitor
 
 ### GUI Showcase
 
-![SoilSensorEmail GUI](https://github.com/Nickory/Project2_2025/blob/main/show.png)
+![SoilSensorEmail GUI](https://github.com/Nickory/Project2_2025/blob/main/image.png)
 *The Tkinter-based GUI displaying the current soil moisture status, schedule, and email status.*
 
 ### Physical Setup
