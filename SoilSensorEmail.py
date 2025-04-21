@@ -10,7 +10,7 @@ from datetime import datetime
 SMTP_SERVER = 'smtp.qq.com'
 SMTP_PORT = 465
 SENDER_EMAIL = "3119349688@qq.com"
-SENDER_PASSWORD = "okhhgidjogtndfid"  # QQ email authorization code
+SENDER_PASSWORD = "xxxxxxxx"  # QQ email authorization code
 RECIPIENT_EMAIL = "2563373919@qq.com"
 
 # GPIO Setup
